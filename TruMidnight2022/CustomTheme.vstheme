@@ -4777,7 +4777,7 @@
         <Background Type="CT_RAW" Source="FFA8B3C2" />
       </Color>
       <Color Name="HelpSearchProviderUnselectedBackground">
-        <Background Type="CT_RAW" Source="FFDEE1E7" />
+        <Background Type="CT_RAW" Source="FF23292E" />
       </Color>
       <Color Name="HelpSearchProviderUnselectedText">
         <Background Type="CT_RAW" Source="FF1B293E" />
@@ -4798,7 +4798,7 @@
         <Background Type="CT_RAW" Source="8383BF22" />
       </Color>
       <Color Name="HelpSearchResultSelectedBackground">
-        <Background Type="CT_RAW" Source="FFF0F0F0" />
+        <Background Type="CT_RAW" Source="FF343D46" />
       </Color>
       <Color Name="HelpSearchResultSelectedText">
         <Background Type="CT_RAW" Source="FF000000" />
@@ -5968,7 +5968,7 @@
         <Background Type="CT_RAW" Source="FF696969" />
       </Color>
       <Color Name="ToolWindowCodeBlockBackground">
-        <Background Type="CT_RAW" Source="FFDEE1E7" />
+        <Background Type="CT_RAW" Source="FF23292E" />
       </Color>
     </Category>
     <Category Name="Find" GUID="{4370282e-987e-4ac4-ad14-5ffed2ad1e14}">
@@ -7322,7 +7322,7 @@
       </Color>
       <Color Name="MouseOverBackground">
         <Background Type="CT_RAW" Source="FF343D46" />
-        <Foreground Type="CT_RAW" Source="FFDDDDDD" />
+        <Foreground Type="CT_RAW" Source="FF343D46" />
       </Color>
       <Color Name="MouseOverBorder">
         <Background Type="CT_RAW" Source="FFA1C764" />
@@ -7502,7 +7502,7 @@
       </Color>
       <Color Name="SearchActiveBackground">
         <Background Type="CT_RAW" Source="FF343D46" />
-        <Foreground Type="CT_RAW" Source="FFDDDDDD" />
+        <Foreground Type="CT_RAW" Source="FF343D46" />
       </Color>
       <Color Name="ActionButtonMouseOverGlyph">
         <Background Type="CT_RAW" Source="FF83BF22" />
@@ -7533,7 +7533,7 @@
       </Color>
       <Color Name="FocusedBackground">
         <Background Type="CT_RAW" Source="FF343D46" />
-        <Foreground Type="CT_RAW" Source="FFDDDDDD" />
+        <Foreground Type="CT_RAW" Source="FF343D46" />
       </Color>
       <Color Name="MouseOverStopGlyph">
         <Background Type="CT_RAW" Source="FFE51400" />
@@ -10951,10 +10951,10 @@
     </Category>
     <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
       <Color Name="EnvironmentBackground">
-        <Background Type="CT_RAW" Source="FFEEEEEE" />
+        <Background Type="CT_RAW" Source="FF343D46" />
       </Color>
       <Color Name="ToolBarBackground">
-        <Background Type="CT_RAW" Source="FFF9F9F9" />
+        <Background Type="CT_RAW" Source="FF343D46" />
       </Color>
       <Color Name="ToolBarBorder">
         <Background Type="CT_RAW" Source="0F000000" />
@@ -10962,7 +10962,7 @@
     </Category>
     <Category Name="ThemedAcceleratedDialog" GUID="{a2859846-e4aa-452d-ac41-8cc0e4e72e4c}">
       <Color Name="PanelBackground">
-        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF343D46" />
       </Color>
       <Color Name="SignInButton">
         <Background Type="CT_RAW" Source="FF403582" />
@@ -10980,7 +10980,7 @@
         <Background Type="CT_RAW" Source="FFD1D1D1" />
       </Color>
       <Color Name="AltButtonBackground">
-        <Background Type="CT_RAW" Source="FFF7F7F7" />
+        <Background Type="CT_RAW" Source="FF23292E" />
       </Color>
       <Color Name="AltButtonHover">
         <Background Type="CT_RAW" Source="FFDEDEDE" />
